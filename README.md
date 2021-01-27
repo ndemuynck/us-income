@@ -26,3 +26,4 @@ Detect overfitting and setting up the right treshold.
 - ROC AUC curve + treshold + gmeans
 - PRC curve + treshold + f-score
 - make dataframe to compare values
+- add validation strategy
